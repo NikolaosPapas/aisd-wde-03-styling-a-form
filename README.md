@@ -14,7 +14,7 @@ Customize the styles and form content as you like. Make it your own.
 
 ##
 
-## Project Structure
+### Project Structure
 
 In this assignment, you are provided with the following file structure:
 
