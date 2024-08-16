@@ -6,7 +6,7 @@ In this assignment, you will create and style a modern login form with the help 
 
 This activity is meant to be done solo.
 
-## Just an example of what you could build 
+## Here’s an example of what you could create.
 
 ![Screenshot of the finished webpage](./assets/images/example.png)
 
@@ -78,13 +78,16 @@ Keep in mind the steps below are all suggestions, feel free to customize the ask
 - Look through all your code and ask AI to explain anything you do not understand in both the `html` and `css` files.
 - Ask for AI help (if needed) to change colors and styles throughout your form. Make it your own. 
 
-### Things you may ask AI for help with while testing
+## 
+
+#### Things you may ask AI for help with while testing
 
 - **Centering the Form**: If your login form isn't centered on the page, you might ask AI: "How can I center my login form on the page using CSS?"
 - **How to Debug HTML/CSS Issues**: If something isn’t displaying correctly, you might ask AI: "Why isn't my login form centering on the page?" or "Why isn't my CSS applying to the form correctly?"
 - **Improving Responsiveness**: If your form doesn't look right on different screen sizes, ask AI: "How can I make my login form responsive across various devices?"
 - **Adding Advanced Features**: If you want to add more functionality or styling, you might ask AI: "How can I add a 'show password' toggle to my login form?" or "What are some advanced CSS techniques I can use to enhance my form's design?"
 
+##
 
 ## Conclusion
 
