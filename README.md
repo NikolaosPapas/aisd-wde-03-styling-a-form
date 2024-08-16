@@ -46,28 +46,29 @@ You are now ready to begin coding your login form!
 
 ## Now let's test our unstyled code for our basic login form
 
-It may look something like this in your browser:
+- It may look something like this in your browser:
 ##
 <img src="assets/images/example2.png" alt="Example Login Form" width="250" height="205">
 
 ##
-**Once you have all your `HTML` code in place you should be ready to move on to styling the form.
+- Once you have all your `HTML` code in place you should be ready to move on to styling the form.
 
-### Moveing on to add CSS styles to our form. 
+### Moving on to add CSS styles to our form. 
 
 ### Step 2: CSS Coding
+Keep in mind that when asking AI for help with styling, you may need to supply your `HTML` code so it knows which classes or IDs you have used.
 
-1. **Ask AI for a CSS Reset**: To ensure your form looks consistent across different browsers, you can ask AI: "What is a basic CSS reset, and how can I use it in my project?"
+- Be specific in each step about which elements you want to style when asking AI for assistance.
 
-2. **Style the Login Form Container**: Style the login form to make it centered and visually appealing. If you're not sure how to proceed, ask AI: "How can I style a container to center a login form on the page?"
 
-3. **Style the Form Elements**: Refine the appearance of the input fields and buttons by asking AI: "How can I style input fields and buttons for a cohesive design?"
+1. **Ask AI for a CSS Reset**: To ensure your form looks consistent across different browsers, you can ask AI: "What is a basic CSS reset, and how can I use it in my project?" Make sure to include that you are looking to reset your margin, padding, and box styles. 
 
-## Testing Your Project
+2. **Style the Login Form Container**: Style the login form to make it centered and visually appealing. If you're not sure how to proceed, maybe ask AI: "How can I style a container to center a login form on the page?"
 
-- Open your `index.html` file in a web browser.
-- Verify that the login form is centered on the page and that all elements are styled correctly.
-- Test the form's responsiveness by resizing your browser window to see how the layout adapts.
+3. **Style the Form Input Elements**: Refine the appearance of the input fields and buttons by maybe asking AI: "How can I style input fields and buttons for a cohesive design? Please just show me input style examples"
+
+4. **Style the Buttons**: Now, refine the appearance of the buttons if you included any in your form. You can ask AI: "How can I style buttons for a cohesive design? Please just show me button style examples."
+
 
 ## Testing Your Project
 
@@ -75,6 +76,8 @@ It may look something like this in your browser:
 - Verify that the login form is centered on the page and that all elements are styled correctly.
 - Test the form's responsiveness by resizing your browser window to see how the layout adapts.
 - Customize the styles and form content as you like with the assistance of AI if needed.
+- Look through all your code and ask AI to explain anything you do not understand in both the `html` and `css` files.
+- Ask for AI help (if needed) to change colors and styles throughout your form. Make it your own. 
 
 ## Things you may ask AI for help with while testing
 
