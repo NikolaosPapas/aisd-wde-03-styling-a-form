@@ -10,7 +10,7 @@ This activity is meant to be done solo.
 
 ![Screenshot of the finished webpage](./assets/images/example.png)
 
-* Customize the styles and form content as you like. Make it your own.
+Customize the styles and form content as you like. Make it your own.
 
 ##
 
@@ -44,7 +44,7 @@ You are now ready to begin coding your login form!
 
 - **Create the Login Form Structure**: Next, add the HTML elements needed for a login form, such as input fields for a username and password. You might ask AI: "How do I structure a simple login form in HTML?" Make sure to include which fields you want in your login form and ask where they should be placed within your basic boilerplate code.
 
-### Now let's test our unstyled code for our basic login form
+### 2. Now let's test our unstyled code for our basic login form
 
 It may look something like this in your browser:
 ##
@@ -55,7 +55,7 @@ Once you have all your `HTML` code in place you should be ready to move on to st
 
 ### Moving on to add CSS styles to our form. 
 
-### 2: CSS Coding
+### 3: CSS Coding
 Keep in mind that when asking AI for help with styling, you may need to supply your `HTML` code so it knows which classes or IDs you have used.
 Be specific in each step about which elements you want to style when asking AI for assistance.
 Keep in mind the steps below are all suggestions, feel free to customize the asks and or add your own to breate an awesome looking responsize login form 
@@ -69,7 +69,7 @@ Keep in mind the steps below are all suggestions, feel free to customize the ask
 - **Style the Buttons**: Now, refine the appearance of the buttons if you included any in your form. You can ask AI: "How can I style buttons for a cohesive design? Please just show me button style examples."
 
 
-## 3. Testing Your Project
+## 4. Testing Your Project
 
 - Open your `index.html` file in a web browser.
 - Verify that the login form is centered on the page and that all elements are styled correctly.
