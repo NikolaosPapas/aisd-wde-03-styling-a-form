@@ -40,14 +40,21 @@ You are now ready to begin coding your login form!
 
 ### Step 1: HTML Coding
 
-1. **Build a Basic HTML Boilerplate**: Start by creating the foundation of your webpage with an HTML boilerplate. If you're unsure where to start, maybe ask AI how to create the boilerplate for your HTML project. Make sure you are specific with your request. ALso make sure you ask for help with linking your CSS file while building out the boilerplate structure. 
+1. **Build a Basic HTML Boilerplate**: Start by creating the foundation of your webpage with an HTML boilerplate. If you're unsure where to start, maybe ask AI how to create the boilerplate for your HTML project. Make sure you are specific with your request. Also make sure you ask for help with linking your CSS file while building out the boilerplate structure. 
 
 2. **Create the Login Form Structure**: Next, add the HTML elements needed for a login form, such as input fields for a username and password. You might ask AI: "How do I structure a simple login form in HTML?" Make sure to include which fields you want in your login form and ask where they should be placed within your basic boilerplate code.
-### Step 2: CSS Coding
 
-**Once you have all your `HTML` code in place you should be ready to move on to styling the form.
+## Now let's test our unstyled code for our basic login form
+
+It may look something like this in your browser:
+
+<img src="assets/images/example2.png" alt="Example Login Form" width="250" height="205">
+
+Once you have all your `HTML` code in place you should be ready to move on to styling the form.
 
 ### Moveing on to add CSS styles to our form. 
+
+### Step 2: CSS Coding
 
 1. **Ask AI for a CSS Reset**: To ensure your form looks consistent across different browsers, you can ask AI: "What is a basic CSS reset, and how can I use it in my project?"
 
