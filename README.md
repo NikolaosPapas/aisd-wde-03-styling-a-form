@@ -14,7 +14,7 @@ Customize the styles and form content as you like. Make it your own.
 
 ##
 
-### Project Structure
+## Project Structure
 
 In this assignment, you are provided with the following file structure:
 
@@ -24,7 +24,7 @@ LoginForm/
 └── styles.css
 ```
 
-## 1. Project Setup Steps
+### 1. Project Setup Steps
 
 - **Create a New Folder**: Start by creating a new folder on your computer named `LoginForm`.
 
@@ -36,7 +36,7 @@ LoginForm/
 
 ##
 
-## Coding Instructions
+**Coding Instructions**
 
 You are now ready to begin coding your login form!
 
