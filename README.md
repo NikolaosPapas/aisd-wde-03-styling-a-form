@@ -4,6 +4,8 @@
 ### Description
 In this assignment, you will create and style a modern login form with the help of AI. The focus will be on structuring the HTML and applying CSS for a polished, responsive design.
 
+This activity is meant to be done solo.
+
 ## Just an example of what you could build 
 
 ![Screenshot of the finished webpage](./assets/images/example.png)
@@ -12,20 +14,17 @@ In this assignment, you will create and style a modern login form with the help 
 
 ##
 
-
-
-
 ## Project Structure
 
 In this assignment, you are provided with the following file structure:
 
-```plaintext
+```
 LoginForm/
 ├── index.html
 └── styles.css
 ```
 
-## Setup Steps
+## Project Setup Steps
 
 1. **Create a New Folder**: Start by creating a new folder on your computer named `LoginForm`.
 
@@ -39,11 +38,11 @@ LoginForm/
 
 You are now ready to begin coding your login form!
 
-### Step 1: HTML Coding
+### 1: HTML Coding
 
-1. **Build a Basic HTML Boilerplate**: Start by creating the foundation of your webpage with an HTML boilerplate. If you're unsure where to start, maybe ask AI how to create the boilerplate for your HTML project. Make sure you are specific with your request. Also make sure you ask for help with linking your CSS file while building out the boilerplate structure. 
+- **Build a Basic HTML Boilerplate**: Start by creating the foundation of your webpage with an HTML boilerplate. If you're unsure where to start, maybe ask AI how to create the boilerplate for your HTML project. Make sure you are specific with your request. Also make sure you ask for help with linking your CSS file while building out the boilerplate structure. 
 
-2. **Create the Login Form Structure**: Next, add the HTML elements needed for a login form, such as input fields for a username and password. You might ask AI: "How do I structure a simple login form in HTML?" Make sure to include which fields you want in your login form and ask where they should be placed within your basic boilerplate code.
+- **Create the Login Form Structure**: Next, add the HTML elements needed for a login form, such as input fields for a username and password. You might ask AI: "How do I structure a simple login form in HTML?" Make sure to include which fields you want in your login form and ask where they should be placed within your basic boilerplate code.
 
 ### Now let's test our unstyled code for our basic login form
 
@@ -56,22 +55,21 @@ Once you have all your `HTML` code in place you should be ready to move on to st
 
 ### Moving on to add CSS styles to our form. 
 
-### Step 2: CSS Coding
+### 2: CSS Coding
 Keep in mind that when asking AI for help with styling, you may need to supply your `HTML` code so it knows which classes or IDs you have used.
+Be specific in each step about which elements you want to style when asking AI for assistance.
+Keep in mind the steps below are all suggestions, feel free to customize the asks and or add your own to breate an awesome looking responsize login form 
 
-- Be specific in each step about which elements you want to style when asking AI for assistance.
-- Keep in mind the steps below are all suggestions, feel free to customize the asks and or add your own to breate an awesome looking responsize login form 
+- **Ask AI for a CSS Reset**: To ensure your form looks consistent across different browsers, you can ask AI: "What is a basic CSS reset, and how can I use it in my project?" Make sure to include that you are looking to reset your margin, padding, and box styles. 
 
-1. **Ask AI for a CSS Reset**: To ensure your form looks consistent across different browsers, you can ask AI: "What is a basic CSS reset, and how can I use it in my project?" Make sure to include that you are looking to reset your margin, padding, and box styles. 
+- **Style the Login Form Container**: Style the login form to make it centered and visually appealing. If you're not sure how to proceed, maybe ask AI: "How can I style a container to center a login form on the page?"
 
-2. **Style the Login Form Container**: Style the login form to make it centered and visually appealing. If you're not sure how to proceed, maybe ask AI: "How can I style a container to center a login form on the page?"
+- **Style the Form Input Elements**: Refine the appearance of the input fields and buttons by maybe asking AI: "How can I style input fields and buttons for a cohesive design? Please just show me input style examples"
 
-3. **Style the Form Input Elements**: Refine the appearance of the input fields and buttons by maybe asking AI: "How can I style input fields and buttons for a cohesive design? Please just show me input style examples"
-
-4. **Style the Buttons**: Now, refine the appearance of the buttons if you included any in your form. You can ask AI: "How can I style buttons for a cohesive design? Please just show me button style examples."
+- **Style the Buttons**: Now, refine the appearance of the buttons if you included any in your form. You can ask AI: "How can I style buttons for a cohesive design? Please just show me button style examples."
 
 
-## Testing Your Project
+## 3. Testing Your Project
 
 - Open your `index.html` file in a web browser.
 - Verify that the login form is centered on the page and that all elements are styled correctly.
@@ -80,7 +78,7 @@ Keep in mind that when asking AI for help with styling, you may need to supply y
 - Look through all your code and ask AI to explain anything you do not understand in both the `html` and `css` files.
 - Ask for AI help (if needed) to change colors and styles throughout your form. Make it your own. 
 
-## Things you may ask AI for help with while testing
+### Things you may ask AI for help with while testing
 
 - **Centering the Form**: If your login form isn't centered on the page, you might ask AI: "How can I center my login form on the page using CSS?"
 - **How to Debug HTML/CSS Issues**: If something isn’t displaying correctly, you might ask AI: "Why isn't my login form centering on the page?" or "Why isn't my CSS applying to the form correctly?"
