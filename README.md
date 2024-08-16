@@ -1,8 +1,10 @@
 
 # WDE06 Create and Style a Login Form with the help of AI
 
-##Just an example of what you could build 
+## Just an example of what you could build 
+
 ![Screenshot of the finished webpage](./assets/images/example.png)
+
 * Customize the styles and form content as you like. Make it your own.
 
 ##
