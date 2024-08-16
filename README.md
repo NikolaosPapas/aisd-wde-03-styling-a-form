@@ -51,9 +51,8 @@ It may look something like this in your browser:
 <img src="assets/images/example2.png" alt="Example Login Form" width="250" height="205">
 
 ##
-Once you have all your `HTML` code in place you should be ready to move on to styling the form.
-
 **Moving on to add CSS styles to our form.** 
+Once you have all your `HTML` code in place you should be ready to move on to styling the form.
 
 ### 4: CSS Coding
 Keep in mind that when asking AI for help with styling, you may need to supply your `HTML` code so it knows which classes or IDs you have used.
