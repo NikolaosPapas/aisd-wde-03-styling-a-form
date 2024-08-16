@@ -55,7 +55,7 @@ It may look something like this in your browser:
 ##
 Once you have all your `HTML` code in place you should be ready to move on to styling the form.
 
-### Moving on to add CSS styles to our form. 
+**Moving on to add CSS styles to our form.** 
 
 ### 4: CSS Coding
 Keep in mind that when asking AI for help with styling, you may need to supply your `HTML` code so it knows which classes or IDs you have used.
@@ -71,7 +71,7 @@ Keep in mind the steps below are all suggestions, feel free to customize the ask
 - **Style the Buttons**: Now, refine the appearance of the buttons if you included any in your form. You can ask AI: "How can I style buttons for a cohesive design? Please just show me button style examples."
 
 
-## 5. Testing Your Project
+### 5. Testing Your Project
 
 - Open your `index.html` file in a web browser.
 - Verify that the login form is centered on the page and that all elements are styled correctly.
