@@ -52,7 +52,7 @@ It may look something like this in your browser:
 <img src="assets/images/example2.png" alt="Example Login Form" width="250" height="205">
 
 ##
-- Once you have all your `HTML` code in place you should be ready to move on to styling the form.
+Once you have all your `HTML` code in place you should be ready to move on to styling the form.
 
 ### Moving on to add CSS styles to our form. 
 
@@ -60,7 +60,7 @@ It may look something like this in your browser:
 Keep in mind that when asking AI for help with styling, you may need to supply your `HTML` code so it knows which classes or IDs you have used.
 
 - Be specific in each step about which elements you want to style when asking AI for assistance.
-
+- Keep in mind the steps below are all suggestions, feel free to customize the asks and or add your own to breate an awesome looking responsize login form 
 
 1. **Ask AI for a CSS Reset**: To ensure your form looks consistent across different browsers, you can ask AI: "What is a basic CSS reset, and how can I use it in my project?" Make sure to include that you are looking to reset your margin, padding, and box styles. 
 
