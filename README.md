@@ -47,10 +47,11 @@ You are now ready to begin coding your login form!
 ## Now let's test our unstyled code for our basic login form
 
 It may look something like this in your browser:
-
+##
 <img src="assets/images/example2.png" alt="Example Login Form" width="250" height="205">
 
-Once you have all your `HTML` code in place you should be ready to move on to styling the form.
+##
+**Once you have all your `HTML` code in place you should be ready to move on to styling the form.
 
 ### Moveing on to add CSS styles to our form. 
 
