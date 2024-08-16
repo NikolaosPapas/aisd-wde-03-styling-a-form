@@ -45,9 +45,9 @@ You are now ready to begin coding your login form!
 
 2. **Create the Login Form Structure**: Next, add the HTML elements needed for a login form, such as input fields for a username and password. You might ask AI: "How do I structure a simple login form in HTML?" Make sure to include which fields you want in your login form and ask where they should be placed within your basic boilerplate code.
 
-## Now let's test our unstyled code for our basic login form
+### Now let's test our unstyled code for our basic login form
 
-- It may look something like this in your browser:
+It may look something like this in your browser:
 ##
 <img src="assets/images/example2.png" alt="Example Login Form" width="250" height="205">
 
