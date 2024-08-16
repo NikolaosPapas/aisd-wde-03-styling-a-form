@@ -24,27 +24,29 @@ LoginForm/
 └── styles.css
 ```
 
-## Project Setup Steps
+## 1. Project Setup Steps
 
-1. **Create a New Folder**: Start by creating a new folder on your computer named `LoginForm`.
+- **Create a New Folder**: Start by creating a new folder on your computer named `LoginForm`.
 
-2. **Create Blank Files**: Inside the `LoginForm` folder, create two blank files:
+- **Create Blank Files**: Inside the `LoginForm` folder, create two blank files:
    - `index.html` - This will be your main HTML file.
    - `styles.css` - This will be your CSS file where you will write your styles.
 
-3. **Open the Project in Your Code Editor**: Open the `LoginForm` folder using your preferred code editor (e.g., VSCode).
+- **Open the Project in Your Code Editor**: Open the `LoginForm` folder using your preferred code editor (e.g., VSCode).
 
-## Instructions
+##
+
+## Coding Instructions
 
 You are now ready to begin coding your login form!
 
-### 1: HTML Coding
+### 2: HTML Coding
 
 - **Build a Basic HTML Boilerplate**: Start by creating the foundation of your webpage with an HTML boilerplate. If you're unsure where to start, maybe ask AI how to create the boilerplate for your HTML project. Make sure you are specific with your request. Also make sure you ask for help with linking your CSS file while building out the boilerplate structure. 
 
 - **Create the Login Form Structure**: Next, add the HTML elements needed for a login form, such as input fields for a username and password. You might ask AI: "How do I structure a simple login form in HTML?" Make sure to include which fields you want in your login form and ask where they should be placed within your basic boilerplate code.
 
-### 2. Now let's test our unstyled code for our basic login form
+### 3. Now let's test our unstyled code for our basic login form
 
 It may look something like this in your browser:
 ##
@@ -55,7 +57,7 @@ Once you have all your `HTML` code in place you should be ready to move on to st
 
 ### Moving on to add CSS styles to our form. 
 
-### 3: CSS Coding
+### 4: CSS Coding
 Keep in mind that when asking AI for help with styling, you may need to supply your `HTML` code so it knows which classes or IDs you have used.
 Be specific in each step about which elements you want to style when asking AI for assistance.
 Keep in mind the steps below are all suggestions, feel free to customize the asks and or add your own to breate an awesome looking responsize login form 
@@ -69,7 +71,7 @@ Keep in mind the steps below are all suggestions, feel free to customize the ask
 - **Style the Buttons**: Now, refine the appearance of the buttons if you included any in your form. You can ask AI: "How can I style buttons for a cohesive design? Please just show me button style examples."
 
 
-## 4. Testing Your Project
+## 5. Testing Your Project
 
 - Open your `index.html` file in a web browser.
 - Verify that the login form is centered on the page and that all elements are styled correctly.
@@ -80,7 +82,7 @@ Keep in mind the steps below are all suggestions, feel free to customize the ask
 
 ## 
 
-#### Things you may ask AI for help with while testing
+**Things you may ask AI for help with while testing**
 
 - **Centering the Form**: If your login form isn't centered on the page, you might ask AI: "How can I center my login form on the page using CSS?"
 - **How to Debug HTML/CSS Issues**: If something isn’t displaying correctly, you might ask AI: "Why isn't my login form centering on the page?" or "Why isn't my CSS applying to the form correctly?"
@@ -89,7 +91,7 @@ Keep in mind the steps below are all suggestions, feel free to customize the ask
 
 ##
 
-## Conclusion
+**Conclusion**
 
 By completing this project, you should have learned how to structure a simple HTML form and style it using CSS, with a focus on creating a visually appealing and responsive design. You also learned how to effectively use AI to assist in your coding process.
 
