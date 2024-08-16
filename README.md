@@ -1,12 +1,15 @@
 
 # WDE06 Create and Style a Login Form with the help of AI
 
+##Just an example of what you could build 
+![Screenshot of the finished webpage](./assets/images/example.png)
+* Customize the styles and form content as you like. Make it your own.
+
+##
+
 ### Description
 In this assignment, you will create and style a modern login form with the help of AI. The focus will be on structuring the HTML and applying CSS for a polished, responsive design.
 
-##Just an example of what you could build 
-![Screenshot of the finished webpage](./assets/images/example.png)
-Customize the styles and form content as you like. Make it your own.
 
 
 ## Project Structure
