@@ -36,9 +36,7 @@ LoginForm/
 
 ##
 
-**Coding Instructions**
-
-You are now ready to begin coding your login form!
+**Coding Instructions** You are now ready to begin coding your login form!
 
 ### 2: HTML Coding
 
