@@ -89,6 +89,7 @@ Once you have all your `HTML` code in place you should be ready to move on to st
 - We used AI to guide us in applying a CSS Reset, centering the login form, and styling the input fields and buttons for a cohesive and consistent design.
 
 ## 5. **Testing Your Project**
+Now, let's see how your styled project is coming along.
 
 - [ ] Open your `index.html` file in a web browser.
 
