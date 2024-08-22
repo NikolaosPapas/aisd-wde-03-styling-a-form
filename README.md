@@ -1,7 +1,7 @@
 
 # Create and Style a Login Form with the help of AI
 
-### Here’s an example of what you could create.
+### Here is an example of what you could create.
 ![Screenshot of a basic styled HTML login form with fields for Email and Password, including a 'Login' and 'Forgot Password? button' set against a simple background.](./assets/images/example.png)
 
 ## Description 📄
