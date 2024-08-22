@@ -48,11 +48,11 @@ Begin by building the foundation of your webpage using an HTML boilerplate. Need
 ## 3. **Create the Login Form Structure** 
 Next, add the HTML elements needed for a login form, such as input fields for a username and password. 
 
-- [ ] Ask AI: "How do I structure a simple login form in HTML?" 
+- [ ] Ask AI: "How do I structure a basic login form in HTML? 
 
-- [ ] Tell AI which fields you'd like to include in your login form.
+- [ ] Specify to AI the fields you want to include in your login form.
 
-- [ ] Ask AI where to place the login form code within your HTML boilerplate
+- [ ] Ask AI where to insert the login form code within your HTML boilerplate.
 
 **Explanation:**
 - We're using AI to help structure and build a simple login form in HTML by providing guidance on field selection.
