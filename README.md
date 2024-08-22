@@ -70,7 +70,7 @@ Next, add the HTML elements needed for a login form, such as input fields for a 
 
 ##
 
- Let's add some CSS styling!
+ ### Let's add some CSS styling!
 
  Keep in mind that when asking AI for help with styling, you may need to supply your `HTML` code so it knows which classes or IDs you may have used.
 
