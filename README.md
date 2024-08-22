@@ -8,7 +8,8 @@
 In this assignment, you will create and style a modern login form with the help of AI. The focus will be on structuring the HTML and applying CSS for a polished, responsive design.
 
 This activity is meant to be done solo.
-Customize the styles and form content as you like. Make it your own!
+Customize the styles and form content as you like. 
+Make it your own!
 
 ##
 
