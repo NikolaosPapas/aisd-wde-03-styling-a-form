@@ -7,7 +7,7 @@
 ## Description 📄
 In this assignment, you will create and style a modern login form with the help of AI. The focus will be on structuring the HTML and applying CSS for a polished, responsive design.
 
-This activity is meant to be done solo.
+Keep in mind, your completed result may look slightly different than another classmates or the solution. That is fine as there are countless ways to complete this. Use documentation, AI, your instructor or associate for help as needed.
 Customize the styles and form content as you like. 
 Make it your own!
 
@@ -36,9 +36,9 @@ LoginForm/
 ## 2. **Build a Basic HTML Boilerplate**
 Begin by building the foundation of your webpage using an HTML boilerplate. Need assistance? Just ask AI!
 
-- [ ] Ask AI how to create the boilerplate for your HTML project. 
+- [ ] Create the boilerplate for your HTML project.
 
-- [ ] Ask for help with linking your CSS file while building out the boilerplate structure. 
+- [ ] Linking your CSS file while building out the boilerplate structure. 
 
 - [ ] Paste your code into your empty `index.html` file.
 
@@ -50,14 +50,14 @@ Next, add the HTML elements needed for a login form, such as input fields for a 
 
 - [ ] Ask AI: "How do I structure a basic login form in HTML? 
 
-- [ ] Specify to AI the fields you want to include in your login form.
+- [ ] Determine what fields belong in your signup form (name, age, email, etc) and look up how to create those `inputs`.
 
-- [ ] Ask AI where to insert the login form code within your HTML boilerplate.
+- [ ] Determine where to insert the login form code within your HTML boilerplate.
 
 **Explanation:**
-- We're using AI to help structure and build a simple login form in HTML by providing guidance on field selection.
+- You're using AI to help structure and build a simple login form in HTML by providing guidance on field selection.
 
-## 3. **Now let's test our unstyled code for our basic login form**
+## 3. **Now test your unstyled code for your basic login form**
 
 - [ ] Open the index.html file in your browser to view your login form as it currently appears.
 
@@ -70,32 +70,24 @@ Next, add the HTML elements needed for a login form, such as input fields for a 
 
 ##
 
- ### Let's add some CSS styling!
+ ### Add some CSS styling!
 
  Keep in mind that when asking AI for help with styling, you may need to supply your `HTML` code so it knows which classes or IDs you may have used.
 
 ## 4. **Apply CSS styling to the form.**
 Once you have all your `HTML` code in place you should be ready to move on to styling the form.
 
-- [ ] Ask AI for help applying CSS Reset code to your project. Be sure to include that you want to reset the margin, padding, and box styles.
-
-- [ ] Ask AI for help styling the login form. You could say: "How can I style the container to center a login form on the page?"
-
-- [ ] Style the Form Input: Ask AI, "How can I style my input fields and buttons for a cohesive design?"
-
-- [ ] Style the Form Input Elements: Ask AI, "How can I style input fields and buttons for a consistent look?"
+- [ ] Ask AI for help styling the login form. You could say: "How can I style the container to center a login form on the page?". Try giving it the code you already have and asking it to generate the style for it.
 
 **Explanation:**
-- We used AI to guide us in applying a CSS Reset, centering the login form, and styling the input fields and buttons for a cohesive and consistent design.
+- You used AI to guide us in applying a CSS Reset, centering the login form, and styling the input fields and buttons for a cohesive and consistent design.
 
 ## 5. **Testing Your Project**
-Now, let's see how your styled project is coming along.
+Now, check to see how your styled project is coming along.
 
 - [ ] Open your `index.html` file in a web browser.
 
 - [ ] Verify that the login form is centered on the page and that all elements are styled correctly.
-
-- [ ] Test the form's responsiveness by resizing your browser window to see how the layout adapts.
 
 - [ ] Customize the styles and form content as you like with the assistance of AI if needed.
 
@@ -110,7 +102,7 @@ Now, let's see how your styled project is coming along.
 
 **Conclusion**
 
-By completing this project, you should have learned how to structure a simple HTML form and style it using CSS, with a focus on creating a visually appealing and responsive design. You also learned how to effectively use AI to assist in your coding process.
+By completing this project, you should have learned how to structure a simple HTML form and style it using CSS. You also learned how to effectively use AI to assist in your coding process. Remember that AI is a tool and it is up to you to make sure you understand what it generates and why. This will help you grow as a developer.
 
 ##
 
@@ -124,4 +116,3 @@ By completing this project, you should have learned how to structure a simple HT
 ---
 
 © All rights reserved to ThriveDX
-
