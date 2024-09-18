@@ -55,9 +55,9 @@ Next, add the HTML elements needed for a login form, such as input fields for a 
 - [ ] Determine where to insert the login form code within your HTML boilerplate.
 
 **Explanation:**
-- We're using AI to help structure and build a simple login form in HTML by providing guidance on field selection.
+- You're using AI to help structure and build a simple login form in HTML by providing guidance on field selection.
 
-## 3. **Now let's test our unstyled code for our basic login form**
+## 3. **Now test your unstyled code for your basic login form**
 
 - [ ] Open the index.html file in your browser to view your login form as it currently appears.
 
@@ -70,7 +70,7 @@ Next, add the HTML elements needed for a login form, such as input fields for a 
 
 ##
 
- ### Let's add some CSS styling!
+ ### Add some CSS styling!
 
  Keep in mind that when asking AI for help with styling, you may need to supply your `HTML` code so it knows which classes or IDs you may have used.
 
@@ -80,10 +80,10 @@ Once you have all your `HTML` code in place you should be ready to move on to st
 - [ ] Ask AI for help styling the login form. You could say: "How can I style the container to center a login form on the page?". Try giving it the code you already have and asking it to generate the style for it.
 
 **Explanation:**
-- We used AI to guide us in applying a CSS Reset, centering the login form, and styling the input fields and buttons for a cohesive and consistent design.
+- You used AI to guide us in applying a CSS Reset, centering the login form, and styling the input fields and buttons for a cohesive and consistent design.
 
 ## 5. **Testing Your Project**
-Now, let's see how your styled project is coming along.
+Now, check to see how your styled project is coming along.
 
 - [ ] Open your `index.html` file in a web browser.
 
