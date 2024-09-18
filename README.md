@@ -7,7 +7,7 @@
 ## Description 📄
 In this assignment, you will create and style a modern login form with the help of AI. The focus will be on structuring the HTML and applying CSS for a polished, responsive design.
 
-This activity is meant to be done solo. As such your result may look slightly different than another classmate or the solution. That is fine as there are countless ways to complete this. Use documentation, AI, your instructor or  associate for help as needed.
+Keep in mind, your completed result may look slightly different than another classmates or the solution. That is fine as there are countless ways to complete this. Use documentation, AI, your instructor or associate for help as needed.
 Customize the styles and form content as you like. 
 Make it your own!
 
