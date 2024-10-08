@@ -26,17 +26,17 @@ LoginForm/
 # Instructions ✅
 
 ## 1. **Create the Project Folder and Files**
-   - [ ] Create a folder named `LoginForm` to store all your project files.
+   - [x] Create a folder named `LoginForm` to store all your project files.
    
-   - [ ] Inside the `LoginForm` folder, create a file named `index.html`. This will be your main HTML file.
+   - [x] Inside the `LoginForm` folder, create a file named `index.html`. This will be your main HTML file.
    
-   - [ ] Also, in the `LoginForm` folder, create another file named `styles.css`. This file will contain the CSS used to style your HTML content.
+   - [x] Also, in the `LoginForm` folder, create another file named `styles.css`. This file will contain the CSS used to style your HTML content.
 
 
 ## 2. **Build a Basic HTML Boilerplate**
 Begin by building the foundation of your webpage using an HTML boilerplate. Need assistance? Just ask AI!
 
-- [ ] Create the boilerplate for your HTML project.
+- [x] Create the boilerplate for your HTML project.
 
 - [ ] Linking your CSS file while building out the boilerplate structure. 
 
